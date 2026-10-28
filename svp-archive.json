@@ -553,12 +553,12 @@
       "submittedAt": "2026-10-28T13:23:59.553Z",
       "publishedAt": "2026-10-28T13:23:59.553Z",
       "cover": "POPY&HALO.png",
+      "issue": "IKRAC3",
       "author": "EspKaiser",
       "email": "speranza@espkaiser.cn",
-      "license": "CC-BY-SA-4.0",
       "paramState": "tuned",
       "songs": [
-        "https://www.bilibili.com/video/BV1xe4y1w7bM"
+        "parlemoi de ma mere"
       ],
       "engines": [
         "Synthesizer V 2"
