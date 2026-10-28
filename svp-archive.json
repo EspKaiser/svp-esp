@@ -273,6 +273,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261012给大忙人让路",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "ROSE-给大忙人让路",
+      "submittedAt": "2026-10-28T12:45:44.464Z",
+      "publishedAt": "2026-10-28T12:45:44.464Z",
+      "cover": "ROSE.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV12b411B7d1"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "ROSE"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
