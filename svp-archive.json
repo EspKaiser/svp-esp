@@ -327,6 +327,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261017柳儿别哭",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-柳儿别哭",
+      "submittedAt": "2026-10-28T12:51:38.391Z",
+      "publishedAt": "2026-10-28T12:51:38.391Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1KJ411v7Kv"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
