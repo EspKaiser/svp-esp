@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:23:59.553Z
 publishedAt: 2026-10-28T13:23:59.553Z
 cover: POPY&HALO.png
 paramState: tuned
-songs: ["parlemoi de ma mere"]
+songs: ["https://www.bilibili.com/video/BV1xe4y1w7bM"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["POPY", "HALO"]
 languages: ["zh"]
