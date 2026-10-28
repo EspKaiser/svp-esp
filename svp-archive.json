@@ -570,6 +570,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261027为艺术为爱情",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-为艺术为爱情",
+      "submittedAt": "2026-10-28T13:26:34.693Z",
+      "publishedAt": "2026-10-28T13:26:34.693Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1i3411n7ju"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
