@@ -1,3 +1,31 @@
 {
-  "submissions": []
+  "submissions": [
+    {
+      "slug": "260809奇妙的和谐",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "POPY-奇妙的和谐",
+      "submittedAt": "2026-10-28T11:45:26.651Z",
+      "publishedAt": "2026-10-28T11:45:26.651Z",
+      "cover": "POPY.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1iV411f7Wv"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "POPY"
+      ],
+      "languages": [
+        "zh"
+      ]
+    }
+  ]
 }
