@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:39:25.527Z
 publishedAt: 2026-10-28T12:39:25.527Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1sr4y1j7Kg"]
+songs: ["Caro nome"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

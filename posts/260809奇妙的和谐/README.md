@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T11:45:26.651Z
 publishedAt: 2026-10-28T11:45:26.651Z
 cover: POPY.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1iV411f7Wv"]
+songs: ["Recondita armonia"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["POPY"]
 languages: ["zh"]

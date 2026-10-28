@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:05:55.420Z
 publishedAt: 2026-10-28T13:05:55.420Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1u34y1H7vT"]
+songs: ["Un'aura amorosa"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

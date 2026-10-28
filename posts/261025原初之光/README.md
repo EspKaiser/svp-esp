@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:20:50.724Z
 publishedAt: 2026-10-28T13:20:50.724Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1hZkhYXEob"]
+songs: ["Urlicht"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

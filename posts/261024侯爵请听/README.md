@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:15:10.169Z
 publishedAt: 2026-10-28T13:15:10.169Z
 cover: HALO.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1be4y1s7FP"]
+songs: ["Mein Herr Marquis"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["HALO"]
 languages: ["zh"]

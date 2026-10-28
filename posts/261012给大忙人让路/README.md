@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:45:44.464Z
 publishedAt: 2026-10-28T12:45:44.464Z
 cover: ROSE.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV12b411B7d1"]
+songs: ["Largo al factotum della città"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["ROSE"]
 languages: ["zh"]

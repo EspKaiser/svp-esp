@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:02:18.138Z
 publishedAt: 2026-10-28T12:02:18.138Z
 cover: ROSE.png
 paramState: with-params
-songs: ["https://www.bilibili.com/video/BV1QM411R7cc"]
+songs: ["Di Provenza il mar"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["ROSE"]
 languages: ["zh"]

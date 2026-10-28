@@ -5,7 +5,7 @@ type: project
 submittedAt: 2026-10-28T12:57:59.866Z
 publishedAt: 2026-10-28T12:57:59.866Z
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1Za411X7jX"]
+songs: ["O zittre nicht"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

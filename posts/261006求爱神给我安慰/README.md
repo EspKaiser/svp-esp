@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:42:33.055Z
 publishedAt: 2026-10-28T12:42:33.055Z
 cover: PASTEL.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV14x411f7rU"]
+songs: ["porgi amor"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["PASTEL"]
 languages: ["zh"]

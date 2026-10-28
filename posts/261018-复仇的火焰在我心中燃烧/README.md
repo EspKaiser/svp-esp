@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:01:08.095Z
 publishedAt: 2026-10-28T13:01:08.095Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1s541127FX"]
+songs: ["Der Hölle Rache kocht in meinem Herzen"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

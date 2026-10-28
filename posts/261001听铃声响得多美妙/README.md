@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:28:04.361Z
 publishedAt: 2026-10-28T12:28:04.361Z
 cover: HALO.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1hF411E7Co"]
+songs: ["les tringles des sistres tintaient"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["HALO", "POPY", "ROSE"]
 languages: ["zh"]

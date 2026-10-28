@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:08:12.045Z
 publishedAt: 2026-10-28T12:08:12.045Z
 cover: POPY & PASTEL.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1G84y1n79i"]
+songs: ["Che soave zeffiretto"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["POPY", "PASTEL"]
 languages: ["zh"]

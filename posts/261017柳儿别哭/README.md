@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:51:38.391Z
 publishedAt: 2026-10-28T12:51:38.391Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1KJ411v7Kv"]
+songs: ["non piangere liu"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

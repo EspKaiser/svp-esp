@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:48:24.596Z
 publishedAt: 2026-10-28T12:48:24.596Z
 cover: PASTEL.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV16c411L7pS"]
+songs: ["Signore ascolta"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["PASTEL"]
 languages: ["zh"]

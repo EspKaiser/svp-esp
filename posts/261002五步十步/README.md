@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:35:48.308Z
 publishedAt: 2026-10-28T12:35:48.308Z
 cover: POPY&ROSE.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV14C4y1Y7Et"]
+songs: ["Cinque, dieci, venti"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["POPY", "ROSE"]
 languages: ["zh"]

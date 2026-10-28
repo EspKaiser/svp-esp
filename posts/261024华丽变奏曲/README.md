@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:11:52.651Z
 publishedAt: 2026-10-28T13:11:52.651Z
 cover: 特殊POPY.png
 paramState: with-params
-songs: ["https://www.bilibili.com/video/BV1iZ4y1v7v7"]
+songs: ["ah vous dirai-je maman"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["POPY"]
 languages: ["ja"]

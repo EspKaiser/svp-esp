@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T11:55:54.378Z
 publishedAt: 2026-10-28T11:55:54.378Z
 cover: ROSE.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1SL4y1P7a5"]
+songs: ["non più andrai"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["ROSE"]
 languages: ["zh"]

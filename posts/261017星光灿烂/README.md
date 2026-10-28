@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:55:19.846Z
 publishedAt: 2026-10-28T12:55:19.846Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV19YbFeHETv"]
+songs: ["E lucevan le stelle"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

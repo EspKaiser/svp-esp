@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:31:11.328Z
 publishedAt: 2026-10-28T12:31:11.328Z
 cover: AVER.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1aP4y1f7Sv"]
+songs: ["Sì, mi chiamano Mimì"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]

@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T12:13:35.042Z
 publishedAt: 2026-10-28T12:13:35.042Z
 cover: PASTEL.png
 paramState: tuned
-songs: ["https://www.bilibili.com/video/BV1aP4y1f7Sv"]
+songs: ["Sì, mi chiamano Mimì"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["PASTEL"]
 languages: ["zh"]
