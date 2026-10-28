@@ -53,6 +53,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "260830普罗旺斯的陆地和海洋",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "ROSE-普罗旺斯的陆地和海洋",
+      "submittedAt": "2026-10-28T12:02:18.138Z",
+      "publishedAt": "2026-10-28T12:02:18.138Z",
+      "cover": "ROSE.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "with-params",
+      "songs": [
+        "https://www.bilibili.com/video/BV1QM411R7cc"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "ROSE"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
