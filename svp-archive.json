@@ -219,6 +219,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261006亲切的名字",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-亲切的名字",
+      "submittedAt": "2026-10-28T12:39:25.527Z",
+      "publishedAt": "2026-10-28T12:39:25.527Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1sr4y1j7Kg"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
