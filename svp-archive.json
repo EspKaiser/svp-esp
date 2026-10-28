@@ -191,6 +191,34 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261002五步十步",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "POPY & ROSE-五步……十步……",
+      "submittedAt": "2026-10-28T12:35:48.308Z",
+      "publishedAt": "2026-10-28T12:35:48.308Z",
+      "cover": "POPY&ROSE.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV14C4y1Y7Et"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "POPY",
+        "ROSE"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
