@@ -461,6 +461,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261024华丽变奏曲",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "POPY-华丽变奏曲",
+      "submittedAt": "2026-10-28T13:11:52.651Z",
+      "publishedAt": "2026-10-28T13:11:52.651Z",
+      "cover": "特殊POPY.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "with-params",
+      "songs": [
+        "https://www.bilibili.com/video/BV1iZ4y1v7v7"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "POPY"
+      ],
+      "languages": [
+        "ja"
+      ]
     }
   ]
 }
