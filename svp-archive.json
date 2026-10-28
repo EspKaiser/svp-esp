@@ -26,6 +26,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "260816你不要再去做情郎",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "ROSE-你不要再去做情郎",
+      "submittedAt": "2026-10-28T11:55:54.378Z",
+      "publishedAt": "2026-10-28T11:55:54.378Z",
+      "cover": "ROSE.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1SL4y1P7a5"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "ROSE"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
