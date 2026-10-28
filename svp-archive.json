@@ -515,6 +515,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261025原初之光",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-原初之光",
+      "submittedAt": "2026-10-28T13:20:50.724Z",
+      "publishedAt": "2026-10-28T13:20:50.724Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1hZkhYXEob"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
