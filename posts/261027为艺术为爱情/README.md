@@ -6,7 +6,7 @@ submittedAt: 2026-10-28T13:26:34.693Z
 publishedAt: 2026-10-28T13:26:34.693Z
 cover: AVER.png
 paramState: tuned
-songs: ["Vissi d'arte"]
+songs: ["https://www.bilibili.com/video/BV1i3411n7ju"]
 engines: ["Synthesizer V 2"]
 voicebanks: ["AVER"]
 languages: ["zh"]
