@@ -488,6 +488,33 @@
       "languages": [
         "ja"
       ]
+    },
+    {
+      "slug": "261024侯爵请听",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "HALO-侯爵请听",
+      "submittedAt": "2026-10-28T13:15:10.169Z",
+      "publishedAt": "2026-10-28T13:15:10.169Z",
+      "cover": "HALO.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1be4y1s7FP"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "HALO"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
