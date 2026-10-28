@@ -164,6 +164,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261002人们叫我咪咪",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-人们叫我咪咪",
+      "submittedAt": "2026-10-28T12:31:11.328Z",
+      "publishedAt": "2026-10-28T12:31:11.328Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1aP4y1f7Sv"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
