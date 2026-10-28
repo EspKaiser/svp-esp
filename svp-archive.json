@@ -407,6 +407,33 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261018-复仇的火焰在我心中燃烧",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "AVER-复仇的火焰在我心中燃烧",
+      "submittedAt": "2026-10-28T13:01:08.095Z",
+      "publishedAt": "2026-10-28T13:01:08.095Z",
+      "cover": "AVER.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1s541127FX"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "AVER"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
