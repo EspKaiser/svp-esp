@@ -581,12 +581,12 @@
       "submittedAt": "2026-10-28T13:26:34.693Z",
       "publishedAt": "2026-10-28T13:26:34.693Z",
       "cover": "AVER.png",
+      "issue": "IKRAC7",
       "author": "EspKaiser",
       "email": "speranza@espkaiser.cn",
-      "license": "CC-BY-SA-4.0",
       "paramState": "tuned",
       "songs": [
-        "https://www.bilibili.com/video/BV1i3411n7ju"
+        "Vissi d'arte"
       ],
       "engines": [
         "Synthesizer V 2"
