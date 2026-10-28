@@ -1,0 +1,4588 @@
+{
+  "version": 196,
+  "uuid": "a104b5f9-0fb0-4ac7-9377-b226e38831c1",
+  "time": {
+    "meter": [
+      {
+        "index": 0,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 8,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 9,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 10,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 12,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 14,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 15,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 16,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 17,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 19,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 20,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 21,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 23,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 26,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 27,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 29,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 30,
+        "numerator": 5,
+        "denominator": 4
+      },
+      {
+        "index": 31,
+        "numerator": 6,
+        "denominator": 4
+      },
+      {
+        "index": 32,
+        "numerator": 5,
+        "denominator": 4
+      },
+      {
+        "index": 33,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 34,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 35,
+        "numerator": 3,
+        "denominator": 4
+      },
+      {
+        "index": 36,
+        "numerator": 4,
+        "denominator": 4
+      },
+      {
+        "index": 59,
+        "numerator": 2,
+        "denominator": 4
+      },
+      {
+        "index": 60,
+        "numerator": 4,
+        "denominator": 4
+      }
+    ],
+    "tempo": [
+      {
+        "position": 0,
+        "bpm": 60
+      },
+      {
+        "position": 95961600000,
+        "bpm": 80
+      },
+      {
+        "position": 158054400000,
+        "bpm": 60
+      },
+      {
+        "position": 173577600000,
+        "bpm": 40
+      }
+    ],
+    "startTimeSeconds": 0
+  },
+  "library": [
+    {
+      "name": "Altstimme",
+      "uuid": "3bf38eb1-4839-474e-9ddd-69829f63d63f",
+      "parameters": {
+        "pitchDelta": {
+          "mode": "cubic",
+          "points": []
+        },
+        "vibratoEnv": {
+          "mode": "cubic",
+          "points": []
+        },
+        "loudness": {
+          "mode": "cubic",
+          "points": [
+            2133037656,
+            -0.017647266387939,
+            8458343096,
+            2.099999904632568,
+            8473104602,
+            0,
+            39492815799,
+            0,
+            39507577305,
+            2.099999904632568,
+            40924681907,
+            2.099999904632568,
+            40939443413,
+            0,
+            42327025004,
+            0,
+            42341786510,
+            2.452941179275513,
+            43729368100,
+            2.099999904632568,
+            43744129606,
+            3.158823490142822,
+            43766271866,
+            4.217647075653076,
+            43781033372,
+            3.509124517440796,
+            45869786510,
+            -0.017647266387939,
+            47272129606,
+            -0.017647266387939,
+            47286891112,
+            2.452941179275513,
+            48674472702,
+            2.099999904632568,
+            48689234208,
+            -0.017647266387939,
+            50098958058,
+            -0.017647266387939,
+            50113719564,
+            2.452941179275513,
+            51501301154,
+            2.099999904632568,
+            51516062661,
+            4.217647075653076,
+            53604815799,
+            -0.017647266387939,
+            58358020820,
+            -0.017647266387939,
+            58372782326,
+            2.099999904632568,
+            63487644251,
+            -0.017647266387939,
+            65598539648,
+            -0.017647266387939,
+            65613301154,
+            2.452941179275513,
+            67746338811,
+            2.099999904632568,
+            69133920401,
+            -0.017647266387939,
+            69857234209,
+            -0.370588302612305,
+            72676681907,
+            1.747058749198914,
+            75488748853,
+            4.217647075653076,
+            75503510359,
+            3.158823490142822,
+            79806489439,
+            0.335294008255005,
+            101638875313,
+            -0.017647266387939,
+            103705486192,
+            2.099999904632568,
+            103720247698,
+            2.805882215499878,
+            105809000836,
+            0.335294008255005,
+            110060314644,
+            2.099999904632568,
+            110075076150,
+            0.335294008255005,
+            118489134728,
+            0.335294008255005,
+            118540799999,
+            2.099999904632568,
+            127021285355,
+            2.452941179275513,
+            129117419246,
+            4.217647075653076,
+            129132180752,
+            2.099999904632568,
+            138301939882,
+            2.099999904632568,
+            140405454527,
+            4.217647075653076,
+            140420216033,
+            2.099999904632568,
+            143933454527,
+            2.099999904632568,
+            143948216033,
+            3.511764526367188,
+            146059111430,
+            5.629411697387695,
+            146073872936,
+            2.099999904632568,
+            149011412686,
+            2.099999904632568,
+            149055697206,
+            4.217647075653076,
+            150996835280,
+            4.217647075653076,
+            151011596786,
+            5.629411697387695,
+            151698006828,
+            5.629411697387695,
+            151712768334,
+            4.217647075653076,
+            153808902226,
+            4.217647075653076,
+            153823663732,
+            5.982353210449219,
+            154517454527,
+            5.629411697387695,
+            154532216033,
+            4.217647075653076,
+            154886492184,
+            4.217647075653076,
+            157344282979,
+            6.335294246673584,
+            157359044485,
+            4.217647075653076,
+            157617370845,
+            4.217647075653076,
+            160171111430,
+            6.335294246673584,
+            160185872936,
+            4.217647075653076,
+            165808958760,
+            4.217647075653076,
+            165823720266,
+            6.335294246673584,
+            170739301856,
+            4.570588111877441,
+            170754063363,
+            4.570588111877441,
+            176392958760,
+            4.923529624938965,
+            176400339514,
+            7.394117832183838,
+            179212406459,
+            5.982353210449219,
+            179227167965,
+            4.570588111877441
+          ]
+        },
+        "tension": {
+          "mode": "cubic",
+          "points": [
+            135106073774,
+            0,
+            135120835280,
+            0.382352948188782,
+            136523178376,
+            0.352941185235977,
+            136537939882,
+            0,
+            140575211849,
+            0,
+            140589973355,
+            0.352941185235977,
+            142169454527,
+            0.352941185235977,
+            142184216033,
+            0
+          ]
+        },
+        "breathiness": {
+          "mode": "cubic",
+          "points": []
+        },
+        "voicing": {
+          "mode": "cubic",
+          "points": []
+        },
+        "gender": {
+          "mode": "cubic",
+          "points": []
+        },
+        "toneShift": {
+          "mode": "cubic",
+          "points": []
+        },
+        "mouthOpening": {
+          "mode": "cubic",
+          "points": []
+        }
+      },
+      "vocalModes": {
+        "Soft": {
+          "mode": "cubic",
+          "points": [
+            118511276987,
+            -1.617645263671875,
+            118548180753,
+            -39.11764144897461
+          ]
+        },
+        "Whisper": {
+          "mode": "cubic",
+          "points": [
+            118481753974,
+            0.882354736328125,
+            118548180753,
+            -12.35293960571289
+          ]
+        },
+        "Powerful": {
+          "mode": "cubic",
+          "points": [
+            134884788953,
+            0,
+            134936454226,
+            57.352943420410156
+          ]
+        },
+        "Calm": {
+          "mode": "cubic",
+          "points": [
+            135016363179,
+            0.882354736328125,
+            135045886192,
+            -16.76470375061035
+          ]
+        }
+      },
+      "pitchControls": [
+        {
+          "pos": 128106256066,
+          "pitch": 76,
+          "id": "0",
+          "type": "point"
+        },
+        {
+          "pos": 128180063598,
+          "pitch": 75.91666412353516,
+          "id": "4",
+          "type": "point"
+        },
+        {
+          "pos": 128268632635,
+          "pitch": 75.91666412353516,
+          "id": "2",
+          "type": "point"
+        },
+        {
+          "pos": 128342440167,
+          "pitch": 75.83333587646484,
+          "id": "12",
+          "type": "point"
+        }
+      ],
+      "notes": [
+        {
+          "uuid": "38c9450c4b21411d",
+          "musicalType": "singing",
+          "onset": 2116800000,
+          "duration": 705599999,
+          "lyrics": "小",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d43e7a7fdce24227",
+          "musicalType": "singing",
+          "onset": 2822400000,
+          "duration": 1411199999,
+          "lyrics": "红",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "9e539e8964574a6a",
+          "musicalType": "singing",
+          "onset": 4233600000,
+          "duration": 1411199999,
+          "lyrics": "玫",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "a5a2a580f09e4de6",
+          "musicalType": "singing",
+          "onset": 5644800000,
+          "duration": 2822400000,
+          "lyrics": "ei",
+          "phonemes": "k u e :\\i",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "phonemes": [
+              {
+                "strength": 0,
+                "alt": 0
+              },
+              {
+                "strength": 0,
+                "alt": 0
+              },
+              {
+                "leftOffset": 0.106694564223289,
+                "strength": 0,
+                "alt": 0
+              }
+            ],
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ab1827e0ffbb42c7",
+          "musicalType": "singing",
+          "onset": 38808000000,
+          "duration": 705599999,
+          "lyrics": "世",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "608b683452cc41e9",
+          "musicalType": "singing",
+          "onset": 39513600000,
+          "duration": 1411199999,
+          "lyrics": "人",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "63f955d009604f47",
+          "musicalType": "singing",
+          "onset": 40924800000,
+          "duration": 705599999,
+          "lyrics": "身",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 64,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5d5337ee7b874f91",
+          "musicalType": "singing",
+          "onset": 41630400000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b0943d845f6d4634",
+          "musicalType": "singing",
+          "onset": 42336000000,
+          "duration": 1411199999,
+          "lyrics": "处",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "376e693904d24447",
+          "musicalType": "singing",
+          "onset": 43747200000,
+          "duration": 705599999,
+          "lyrics": "苦",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b5db0a0abe3c4674",
+          "musicalType": "singing",
+          "onset": 44452800000,
+          "duration": 1411199999,
+          "lyrics": "难",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "dd7693a66b49412f",
+          "musicalType": "singing",
+          "onset": 46569600000,
+          "duration": 705599999,
+          "lyrics": "世",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "122f78da9c8145ce",
+          "musicalType": "singing",
+          "onset": 47275200000,
+          "duration": 1411199999,
+          "lyrics": "人",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6b16bc6529944c82",
+          "musicalType": "singing",
+          "onset": 48686400000,
+          "duration": 705599999,
+          "lyrics": "饱",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "11b87bcd1f9a4ea2",
+          "musicalType": "singing",
+          "onset": 49392000000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 67,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ed1fa3a15c5d4d13",
+          "musicalType": "singing",
+          "onset": 50097600000,
+          "duration": 1411199999,
+          "lyrics": "尝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "fadeab9628334d4a",
+          "musicalType": "singing",
+          "onset": 51508800000,
+          "duration": 705599999,
+          "lyrics": "苦",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "209940ef08794e1b",
+          "musicalType": "singing",
+          "onset": 52214400000,
+          "duration": 1411199999,
+          "lyrics": "痛",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e8062cde60634338",
+          "musicalType": "singing",
+          "onset": 58564800000,
+          "duration": 705599999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "56dc61b76bea477b",
+          "musicalType": "singing",
+          "onset": 59270400000,
+          "duration": 705599999,
+          "lyrics": "多",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d5c39f88ee5c4ffe",
+          "musicalType": "singing",
+          "onset": 59976000000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "3610808ee0644215",
+          "musicalType": "singing",
+          "onset": 60681600000,
+          "duration": 705599999,
+          "lyrics": "盼",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "053ef4fb61074856",
+          "musicalType": "singing",
+          "onset": 61387200000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d3d82fb083194220",
+          "musicalType": "singing",
+          "onset": 62092800000,
+          "duration": 1411199999,
+          "lyrics": "望",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e9530abbfc964f57",
+          "musicalType": "singing",
+          "onset": 63504000000,
+          "duration": 705599999,
+          "lyrics": "能",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "bcfc7ff3b2fc41f8",
+          "musicalType": "singing",
+          "onset": 64209600000,
+          "duration": 705599999,
+          "lyrics": "归",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6245e83c1ca1468e",
+          "musicalType": "singing",
+          "onset": 64915200000,
+          "duration": 705599999,
+          "lyrics": "往",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "7084e29f8679416b",
+          "musicalType": "singing",
+          "onset": 65620800000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d4c72da7ce3e4c61",
+          "musicalType": "singing",
+          "onset": 66326400000,
+          "duration": 705599999,
+          "lyrics": "云",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "0c726850270c4a26",
+          "musicalType": "singing",
+          "onset": 67032000000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "dc03d9051be24b4d",
+          "musicalType": "singing",
+          "onset": 67737600000,
+          "duration": 1411199999,
+          "lyrics": "天",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "aa37c298deb14fee",
+          "musicalType": "singing",
+          "onset": 69148800000,
+          "duration": 705599999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f42a10ec1a194093",
+          "musicalType": "singing",
+          "onset": 69854400000,
+          "duration": 705599999,
+          "lyrics": "多",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "3573545ba0bb4a06",
+          "musicalType": "singing",
+          "onset": 70560000000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "cfd9d04120db43c3",
+          "musicalType": "singing",
+          "onset": 71265600000,
+          "duration": 1411199999,
+          "lyrics": "盼",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d101f9cb4fba4cc2",
+          "musicalType": "singing",
+          "onset": 72676800000,
+          "duration": 705599999,
+          "lyrics": "望",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "69e763ba3fe2419f",
+          "musicalType": "singing",
+          "onset": 73382400000,
+          "duration": 705599999,
+          "lyrics": "能",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "aee56e7eb04844ca",
+          "musicalType": "singing",
+          "onset": 74088000000,
+          "duration": 705599999,
+          "lyrics": "栖",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "bbce8cc1452d4db2",
+          "musicalType": "singing",
+          "onset": 74793600000,
+          "duration": 705599999,
+          "lyrics": "于",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "0b158a444b83438b",
+          "musicalType": "singing",
+          "onset": 75499200000,
+          "duration": 1411199999,
+          "lyrics": "云",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "108dc0e827e6438b",
+          "musicalType": "singing",
+          "onset": 76910400000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "8e2f1abd953348ce",
+          "musicalType": "singing",
+          "onset": 77616000000,
+          "duration": 2116800000,
+          "lyrics": "间",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "bd74cf9591264ac0",
+          "musicalType": "singing",
+          "onset": 100900800000,
+          "duration": 705599999,
+          "lyrics": "豁",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "a71776123f59404a",
+          "musicalType": "singing",
+          "onset": 101606400000,
+          "duration": 1411199999,
+          "lyrics": "然",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b299dcea30d94acd",
+          "musicalType": "singing",
+          "onset": 103017600000,
+          "duration": 705599999,
+          "lyrics": "间",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d3a13b325f914072",
+          "musicalType": "singing",
+          "onset": 103723200000,
+          "duration": 705599999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "082bbdbe92e14129",
+          "musicalType": "singing",
+          "onset": 104428800000,
+          "duration": 705599999,
+          "lyrics": "踏",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "449552468e3f41c8",
+          "musicalType": "singing",
+          "onset": 105134400000,
+          "duration": 705599999,
+          "lyrics": "上",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5589a4287d704a8a",
+          "musicalType": "singing",
+          "onset": 105840000000,
+          "duration": 705599999,
+          "lyrics": "宽",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "73e9350bce154d68",
+          "musicalType": "singing",
+          "onset": 106545600000,
+          "duration": 705599999,
+          "lyrics": "阔",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ef3169b3541b452a",
+          "musicalType": "singing",
+          "onset": 107251200000,
+          "duration": 2822400000,
+          "lyrics": "道",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "64f6e0c1cb6742da",
+          "musicalType": "singing",
+          "onset": 118540800000,
+          "duration": 1411199999,
+          "lyrics": "有",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 64,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "79982621ca4f4a78",
+          "musicalType": "singing",
+          "onset": 119952000000,
+          "duration": 705599999,
+          "lyrics": "位",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "00a73bd5b1804af5",
+          "musicalType": "singing",
+          "onset": 120657600000,
+          "duration": 705599999,
+          "lyrics": "天",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 64,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "03677fa82d5c498b",
+          "musicalType": "singing",
+          "onset": 121363200000,
+          "duration": 1058399999,
+          "lyrics": "使",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2e97d20dfa5a4c7d",
+          "musicalType": "singing",
+          "onset": 122421600000,
+          "duration": 352799999,
+          "lyrics": "来",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "9cbe0d7d68d144da",
+          "musicalType": "singing",
+          "onset": 122774400000,
+          "duration": 705599999,
+          "lyrics": "到",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "dfc3a80dd8c847b0",
+          "musicalType": "singing",
+          "onset": 123480000000,
+          "duration": 705599999,
+          "lyrics": "劝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 64,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ac33825d9c754c55",
+          "musicalType": "singing",
+          "onset": 124185600000,
+          "duration": 1411199999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "0aa1c26f19074557",
+          "musicalType": "singing",
+          "onset": 125596800000,
+          "duration": 705599999,
+          "lyrics": "不",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "73ef6ad0d4184525",
+          "musicalType": "singing",
+          "onset": 126302400000,
+          "duration": 352799999,
+          "lyrics": "要",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "3b6c1ed7864c4b88",
+          "musicalType": "singing",
+          "onset": 126655200000,
+          "duration": 352799999,
+          "lyrics": "去",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ba4f3fc21a48463c",
+          "musicalType": "singing",
+          "onset": 127008000000,
+          "duration": 1411199999,
+          "lyrics": "天",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6418d4dde29c465b",
+          "musicalType": "singing",
+          "onset": 128419200000,
+          "duration": 705599999,
+          "lyrics": "堂",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 76,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "4dabd77805fb437b",
+          "musicalType": "singing",
+          "onset": 135122400000,
+          "duration": 352799999,
+          "lyrics": "啊",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "707f6bfe2daa4f3b",
+          "musicalType": "singing",
+          "onset": 135475200000,
+          "duration": 1058399999,
+          "lyrics": "不",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "235efd3d67814d61",
+          "musicalType": "singing",
+          "onset": 136533600000,
+          "duration": 352799999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "c118d84b501241e7",
+          "musicalType": "singing",
+          "onset": 136886400000,
+          "duration": 352799999,
+          "lyrics": "绝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2d3e2ce4f835400d",
+          "musicalType": "singing",
+          "onset": 137239200000,
+          "duration": 352799999,
+          "lyrics": "对",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "fd4889fc7e794749",
+          "musicalType": "singing",
+          "onset": 137592000000,
+          "duration": 352799999,
+          "lyrics": "不",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "7bfdab9c49d84d26",
+          "musicalType": "singing",
+          "onset": 137944800000,
+          "duration": 352799999,
+          "lyrics": "会",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "36013358a42c4f52",
+          "musicalType": "singing",
+          "onset": 138297600000,
+          "duration": 1058399999,
+          "lyrics": "退",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b93e8aa81b6943e8",
+          "musicalType": "singing",
+          "onset": 139356000000,
+          "duration": 352799999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6872245069704ff6",
+          "musicalType": "singing",
+          "onset": 139708800000,
+          "duration": 705599999,
+          "lyrics": "让",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "25dd5dd7164d43b8",
+          "musicalType": "singing",
+          "onset": 140767200000,
+          "duration": 352799999,
+          "lyrics": "啊",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b7aa3b0d50cd48a7",
+          "musicalType": "singing",
+          "onset": 141120000000,
+          "duration": 1058399999,
+          "lyrics": "不",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ec49290596f34afa",
+          "musicalType": "singing",
+          "onset": 142178400000,
+          "duration": 352799999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "09355ee18bcf407a",
+          "musicalType": "singing",
+          "onset": 142531200000,
+          "duration": 352799999,
+          "lyrics": "绝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "b4da842968d64710",
+          "musicalType": "singing",
+          "onset": 142884000000,
+          "duration": 352799999,
+          "lyrics": "对",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "133f0d4c159e4b28",
+          "musicalType": "singing",
+          "onset": 143236800000,
+          "duration": 352799999,
+          "lyrics": "不",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6d607846c1974f68",
+          "musicalType": "singing",
+          "onset": 143589600000,
+          "duration": 352799999,
+          "lyrics": "会",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "1750a30b32e841a4",
+          "musicalType": "singing",
+          "onset": 143942400000,
+          "duration": 1058399999,
+          "lyrics": "退",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "0f0a0d9ccbd643c9",
+          "musicalType": "singing",
+          "onset": 145000800000,
+          "duration": 352799999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5130294812a44004",
+          "musicalType": "singing",
+          "onset": 145353600000,
+          "duration": 705599999,
+          "lyrics": "让",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "963d22d533b04712",
+          "musicalType": "singing",
+          "onset": 149234400000,
+          "duration": 352799999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "76055e1a4b4a467a",
+          "musicalType": "singing",
+          "onset": 149587200000,
+          "duration": 705599999,
+          "lyrics": "来",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "fb9999e1958a4e27",
+          "musicalType": "singing",
+          "onset": 150292800000,
+          "duration": 352799999,
+          "lyrics": "自",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 67,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5ecea23413444c6b",
+          "musicalType": "singing",
+          "onset": 150645600000,
+          "duration": 352799999,
+          "lyrics": "上",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "6682aac39e6240b9",
+          "musicalType": "singing",
+          "onset": 150998400000,
+          "duration": 705599999,
+          "lyrics": "帝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d62f215f373f43f2",
+          "musicalType": "singing",
+          "onset": 151938281250,
+          "duration": 234281249,
+          "lyrics": "愿",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 67,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f459e4f3dfb5471c",
+          "musicalType": "singing",
+          "onset": 152172562500,
+          "duration": 237037499,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "60de36c8b8904335",
+          "musicalType": "singing",
+          "onset": 152409600000,
+          "duration": 705599999,
+          "lyrics": "崇",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "43d11dd22b0f4ada",
+          "musicalType": "singing",
+          "onset": 153115200000,
+          "duration": 352799999,
+          "lyrics": "归",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e298aaff372443ae",
+          "musicalType": "singing",
+          "onset": 153468000000,
+          "duration": 352799999,
+          "lyrics": "上",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ef330eba1edf46b8",
+          "musicalType": "singing",
+          "onset": 153820800000,
+          "duration": 705599999,
+          "lyrics": "帝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 71,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "cad51b79c910428a",
+          "musicalType": "singing",
+          "onset": 154879200000,
+          "duration": 352799999,
+          "lyrics": "慈",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "9ee7f20d949443d7",
+          "musicalType": "singing",
+          "onset": 155232000000,
+          "duration": 705599999,
+          "lyrics": "爱",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e7decac7c6b84420",
+          "musicalType": "singing",
+          "onset": 155937600000,
+          "duration": 352799999,
+          "lyrics": "上",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "7dde017144c9409a",
+          "musicalType": "singing",
+          "onset": 156290400000,
+          "duration": 352799999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "08bc69268f364f55",
+          "musicalType": "singing",
+          "onset": 156643200000,
+          "duration": 705599999,
+          "lyrics": "帝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e38e7bd12bba49b4",
+          "musicalType": "singing",
+          "onset": 157701600000,
+          "duration": 352799999,
+          "lyrics": "慈",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "71a63c21e78b4be5",
+          "musicalType": "singing",
+          "onset": 158054400000,
+          "duration": 705599999,
+          "lyrics": "爱",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5c3e4be630694adc",
+          "musicalType": "singing",
+          "onset": 158760000000,
+          "duration": 352799999,
+          "lyrics": "上",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 69,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5ba3cd4c9bf2498e",
+          "musicalType": "singing",
+          "onset": 159112800000,
+          "duration": 352799999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "bf1f99e6fe5b489f",
+          "musicalType": "singing",
+          "onset": 159465600000,
+          "duration": 705599999,
+          "lyrics": "帝",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f5595688c19248f4",
+          "musicalType": "singing",
+          "onset": 160524000000,
+          "duration": 352799999,
+          "lyrics": "赐",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "fbe0eeeccc864594",
+          "musicalType": "singing",
+          "onset": 160876800000,
+          "duration": 352799999,
+          "lyrics": "予",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e37463e846b44c78",
+          "musicalType": "singing",
+          "onset": 161229600000,
+          "duration": 352799999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f362e4bd945b46cf",
+          "musicalType": "singing",
+          "onset": 161582400000,
+          "duration": 352799999,
+          "lyrics": "光",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f25a150fd4e14558",
+          "musicalType": "singing",
+          "onset": 161935200000,
+          "duration": 352799999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "d632e09d05834db6",
+          "musicalType": "singing",
+          "onset": 162288000000,
+          "duration": 1411199999,
+          "lyrics": "芒",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "683f61dd3cda4c7a",
+          "musicalType": "singing",
+          "onset": 163699200000,
+          "duration": 705599999,
+          "lyrics": "照",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "51f43e0d46594ecc",
+          "musicalType": "singing",
+          "onset": 164404800000,
+          "duration": 705599999,
+          "lyrics": "耀",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e5c1c402306d4ec5",
+          "musicalType": "singing",
+          "onset": 165110400000,
+          "duration": 705599999,
+          "lyrics": "我",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 61,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "07bdc8f590e1417a",
+          "musicalType": "singing",
+          "onset": 165816000000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5cfe880f4f854b64",
+          "musicalType": "singing",
+          "onset": 166521600000,
+          "duration": 705599999,
+          "lyrics": "直",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "76b03195f9374a18",
+          "musicalType": "singing",
+          "onset": 167227200000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "a4183b47b3bf4859",
+          "musicalType": "singing",
+          "onset": 167932800000,
+          "duration": 705599999,
+          "lyrics": "到",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "41f641c8a6d947b9",
+          "musicalType": "singing",
+          "onset": 168638400000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "90ca9db2366e43c0",
+          "musicalType": "singing",
+          "onset": 169344000000,
+          "duration": 705599999,
+          "lyrics": "那",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "96cefe1b5288411d",
+          "musicalType": "singing",
+          "onset": 170049600000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 63,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "ce17523fdc3a49a9",
+          "musicalType": "singing",
+          "onset": 170755200000,
+          "duration": 705599999,
+          "lyrics": "永",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 65,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "2fcce5a44a1a4088",
+          "musicalType": "singing",
+          "onset": 171460800000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 66,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "5de982b38b2246d1",
+          "musicalType": "singing",
+          "onset": 172166400000,
+          "duration": 1411199999,
+          "lyrics": "恒",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "82a0b3d99b174919",
+          "musicalType": "singing",
+          "onset": 173577600000,
+          "duration": 705599999,
+          "lyrics": "极",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 68,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "9cb262dbf47241e2",
+          "musicalType": "singing",
+          "onset": 174283200000,
+          "duration": 705599999,
+          "lyrics": "ー",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 70,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "c2f88cd5dfd64edd",
+          "musicalType": "singing",
+          "onset": 174988800000,
+          "duration": 1411199999,
+          "lyrics": "乐",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 72,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "e62858b6e2f94bc3",
+          "musicalType": "singing",
+          "onset": 176400000000,
+          "duration": 2116800000,
+          "lyrics": "生",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 75,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        },
+        {
+          "uuid": "f21a48201cb04823",
+          "musicalType": "singing",
+          "onset": 178516800000,
+          "duration": 705599999,
+          "lyrics": "命",
+          "phonemes": "",
+          "accent": "",
+          "pitch": 73,
+          "detune": 0,
+          "attributes": {
+            "evenSyllableDuration": true,
+            "muted": false
+          },
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          }
+        }
+      ],
+      "musicalScale": {
+        "type": "Major",
+        "root": "C"
+      }
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Altstimme",
+      "dispColor": "ff7db235",
+      "dispOrder": 0,
+      "renderEnabled": true,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "mute": false,
+        "solo": false,
+        "display": true,
+        "fxPresetName": "",
+        "fxParams": {
+          "room": {
+            "enabled": false,
+            "positionX": 0,
+            "positionY": 0,
+            "size": 15,
+            "reflectionGain": 0
+          },
+          "postRoomEq": {
+            "enabled": false,
+            "filters": [
+              {
+                "freq": 117.69999694824219,
+                "gain": 0,
+                "q": 0.709999978542328
+              },
+              {
+                "freq": 692.7999877929688,
+                "gain": 0,
+                "q": 0.709999978542328
+              },
+              {
+                "freq": 4077.699951171875,
+                "gain": 0,
+                "q": 0.709999978542328
+              }
+            ],
+            "lowShelf": {
+              "freq": 25,
+              "gain": 0
+            }
+          },
+          "compressor": {
+            "enabled": false,
+            "attack": 0,
+            "ratio": 4,
+            "threshold": -10
+          },
+          "reverb": {
+            "enabled": false,
+            "type": "clean",
+            "preDelay": 0.050000000745058,
+            "decay": 1,
+            "dryWetRatio": 0.5
+          }
+        }
+      },
+      "mainGroup": {
+        "name": "main",
+        "uuid": "97e04fbb-df8a-48e2-acc4-a506958389fb",
+        "parameters": {
+          "pitchDelta": {
+            "mode": "cubic",
+            "points": []
+          },
+          "vibratoEnv": {
+            "mode": "cubic",
+            "points": []
+          },
+          "loudness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "tension": {
+            "mode": "cubic",
+            "points": []
+          },
+          "breathiness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "voicing": {
+            "mode": "cubic",
+            "points": []
+          },
+          "gender": {
+            "mode": "cubic",
+            "points": []
+          },
+          "toneShift": {
+            "mode": "cubic",
+            "points": []
+          },
+          "mouthOpening": {
+            "mode": "cubic",
+            "points": []
+          }
+        },
+        "vocalModes": {},
+        "pitchControls": [],
+        "notes": [],
+        "musicalScale": {
+          "type": "Major",
+          "root": "C"
+        }
+      },
+      "mainRef": {
+        "uuid": "1c021b59-195d-4f05-8ee6-a77eb9973e11",
+        "groupID": "97e04fbb-df8a-48e2-acc4-a506958389fb",
+        "blickAbsoluteBegin": 0,
+        "blickAbsoluteEnd": -1,
+        "blickOffset": 0,
+        "pitchOffset": 0,
+        "mute": false,
+        "isInstrumental": false,
+        "database": {
+          "name": "AVER AI 2",
+          "language": "japanese",
+          "phoneset": "romaji",
+          "languageOverride": "",
+          "phonesetOverride": "",
+          "backendType": "SVR3",
+          "version": "200"
+        },
+        "dictionary": "",
+        "voice": {
+          "vocalModeInherited": true,
+          "vocalModePreset": "",
+          "vocalModeParams": {},
+          "choirSeatingSeparation": 0.699999988079071
+        },
+        "voicePresetName": "",
+        "takes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "seedDuration": 0,
+              "seedPitch": 0,
+              "seedTimbre": 0,
+              "liked": false
+            }
+          ]
+        },
+        "timestampLMR": 1792906288679,
+        "timestampLRSR": 1792906300225
+      },
+      "groups": [
+        {
+          "uuid": "362bb759-f393-45de-b864-1abffadfe7f9",
+          "groupID": "3bf38eb1-4839-474e-9ddd-69829f63d63f",
+          "blickAbsoluteBegin": 0,
+          "blickAbsoluteEnd": -1,
+          "blickOffset": 0,
+          "pitchOffset": 0,
+          "mute": false,
+          "isInstrumental": false,
+          "database": {
+            "name": "",
+            "language": "",
+            "phoneset": "",
+            "languageOverride": "mandarin",
+            "phonesetOverride": "xsampa",
+            "backendType": "",
+            "version": "-2"
+          },
+          "dictionary": "",
+          "voice": {
+            "paramLoudness": -2.099999904632568,
+            "paramBreathiness": -0.615000009536743,
+            "vocalModeInherited": false,
+            "vocalModePreset": "",
+            "vocalModeParams": {
+              "Whisper": {
+                "pitch": 30,
+                "timbre": 30,
+                "pronunciation": 30
+              },
+              "Soft": {
+                "pitch": 70,
+                "timbre": 70,
+                "pronunciation": 70
+              },
+              "Calm": {
+                "pitch": 30,
+                "timbre": 30,
+                "pronunciation": 30
+              }
+            },
+            "choirSeatingSeparation": 0.699999988079071
+          },
+          "voicePresetName": "",
+          "takes": {
+            "activeTakeId": 0,
+            "takes": [
+              {
+                "id": 0,
+                "seedDuration": 0,
+                "seedPitch": 0,
+                "seedTimbre": 0,
+                "liked": false
+              }
+            ]
+          },
+          "timestampLMR": 1792907745597,
+          "timestampLRSR": 1792907955608
+        }
+      ]
+    },
+    {
+      "name": "未命名音轨",
+      "dispColor": "ff4794cb",
+      "dispOrder": 1,
+      "renderEnabled": false,
+      "mixer": {
+        "gainDecibel": 6.800000000000001,
+        "pan": 0,
+        "mute": false,
+        "solo": false,
+        "display": true,
+        "fxPresetName": "",
+        "fxParams": {
+          "room": {
+            "enabled": false,
+            "positionX": 0,
+            "positionY": 0,
+            "size": 15,
+            "reflectionGain": 0
+          },
+          "postRoomEq": {
+            "enabled": false,
+            "filters": [
+              {
+                "freq": 117.69999694824219,
+                "gain": 0,
+                "q": 0.709999978542328
+              },
+              {
+                "freq": 692.7999877929688,
+                "gain": 0,
+                "q": 0.709999978542328
+              },
+              {
+                "freq": 4077.699951171875,
+                "gain": 0,
+                "q": 0.709999978542328
+              }
+            ],
+            "lowShelf": {
+              "freq": 25,
+              "gain": 0
+            }
+          },
+          "compressor": {
+            "enabled": false,
+            "attack": 0,
+            "ratio": 4,
+            "threshold": -10
+          },
+          "reverb": {
+            "enabled": false,
+            "type": "clean",
+            "preDelay": 0.050000000745058,
+            "decay": 1,
+            "dryWetRatio": 0.5
+          }
+        }
+      },
+      "mainGroup": {
+        "name": "main",
+        "uuid": "5c108863-a59c-4fa9-b779-62279afec5c7",
+        "parameters": {
+          "pitchDelta": {
+            "mode": "cubic",
+            "points": []
+          },
+          "vibratoEnv": {
+            "mode": "cubic",
+            "points": []
+          },
+          "loudness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "tension": {
+            "mode": "cubic",
+            "points": []
+          },
+          "breathiness": {
+            "mode": "cubic",
+            "points": []
+          },
+          "voicing": {
+            "mode": "cubic",
+            "points": []
+          },
+          "gender": {
+            "mode": "cubic",
+            "points": []
+          },
+          "toneShift": {
+            "mode": "cubic",
+            "points": []
+          },
+          "mouthOpening": {
+            "mode": "cubic",
+            "points": []
+          }
+        },
+        "vocalModes": {},
+        "pitchControls": [],
+        "notes": [],
+        "musicalScale": {
+          "type": "Major",
+          "root": "C"
+        }
+      },
+      "mainRef": {
+        "uuid": "5e4d580a-1524-4566-8255-48f7ad90ed18",
+        "groupID": "5c108863-a59c-4fa9-b779-62279afec5c7",
+        "blickAbsoluteBegin": 0,
+        "blickAbsoluteEnd": -1,
+        "blickOffset": 0,
+        "pitchOffset": 0,
+        "mute": false,
+        "isInstrumental": true,
+        "audio": {
+          "filename": "../总谱/Urlicht.wav",
+          "duration": 258.9866666666667,
+          "bpm": 60.13554382324219,
+          "alternativeBPMs": [
+            60.13554382324219,
+            180.312255859375,
+            196.1456298828125
+          ],
+          "beatLocations": [
+            0.3235625,
+            1.321308528145341,
+            2.319054556290682,
+            3.316800584436024,
+            4.314546612581365,
+            5.312292640726707,
+            6.310038668872048,
+            7.307784697017389,
+            8.30553072516273,
+            9.303276753308072,
+            10.301022781453414,
+            11.298768809598755,
+            12.296514837744096,
+            13.294260865889438,
+            14.29200689403478,
+            15.28975292218012,
+            16.28749895032546,
+            17.2852449784708,
+            18.28299100661614,
+            19.28073703476148,
+            20.27848306290682,
+            21.27622909105216,
+            22.273975119197498,
+            23.271721147342838,
+            24.269467175488177,
+            25.267213203633517,
+            26.264959231778857,
+            27.262705259924196,
+            28.260451288069536,
+            29.258197316214876,
+            30.255943344360215,
+            31.253689372505555,
+            32.2514354006509,
+            33.24918142879624,
+            34.246927456941584,
+            35.24467348508693,
+            36.24241951323227,
+            37.240165541377614,
+            38.23791156952296,
+            39.2356575976683,
+            40.233403625813644,
+            41.23114965395899,
+            42.22889568210433,
+            43.22664171024967,
+            44.224387738395016,
+            45.22213376654036,
+            46.2198797946857,
+            47.217625822831046,
+            48.21537185097639,
+            49.21311787912173,
+            50.210863907267075,
+            51.20860993541242,
+            52.20635596355776,
+            53.204101991703105,
+            54.20184801984845,
+            55.19959404799379,
+            56.197340076139135,
+            57.19508610428448,
+            58.19283213242982,
+            59.190578160575164,
+            60.18832418872051,
+            61.18607021686585,
+            62.183816245011194,
+            63.18156227315654,
+            64.17930830130187,
+            65.17705432944722,
+            66.17480035759256,
+            67.1725463857379,
+            68.17029241388325,
+            69.16803844202859,
+            70.16578447017393,
+            71.16353049831928,
+            72.16127652646462,
+            73.15902255460996,
+            74.1567685827553,
+            75.15451461090065,
+            76.15226063904599,
+            77.15000666719133,
+            78.14775269533668,
+            79.14549872348202,
+            80.14324475162736,
+            81.14099077977271,
+            82.13873680791805,
+            83.1364828360634,
+            84.13422886420874,
+            85.13197489235408,
+            86.12972092049942,
+            87.12746694864477,
+            88.12521297679011,
+            89.12295900493545,
+            90.1207050330808,
+            91.11845106122614,
+            92.11619708937148,
+            93.11394311751683,
+            94.11168914566217,
+            95.10943517380751,
+            96.10718120195286,
+            97.1049272300982,
+            98.10267325824354,
+            99.10041928638888,
+            100.09816531453423,
+            101.09591134267957,
+            102.09365737082491,
+            103.09140339897026,
+            104.0891494271156,
+            105.08689545526094,
+            106.08464148340629,
+            107.08238751155163,
+            108.08013353969697,
+            109.07787956784232,
+            110.07562559598766,
+            111.073371624133,
+            112.07111765227835,
+            113.06886368042369,
+            114.06660970856903,
+            115.06435573671438,
+            116.06210176485972,
+            117.05984779300506,
+            118.0575938211504,
+            119.05533984929575,
+            120.05308587744109,
+            121.05083190558643,
+            122.04857793373178,
+            123.04632396187712,
+            124.04406999002246,
+            125.04181601816781,
+            126.03956204631315,
+            127.0373080744585,
+            128.03505410260382,
+            129.03280013074917,
+            130.0305461588945,
+            131.02829218703985,
+            132.0260382151852,
+            133.02378424333054,
+            134.02153027147588,
+            135.01927629962123,
+            136.01702232776657,
+            137.0147683559119,
+            138.01251438405725,
+            139.0102604122026,
+            140.00800644034794,
+            141.00575246849328,
+            142.00349849663863,
+            143.00124452478397,
+            143.9989905529293,
+            144.99673658107466,
+            145.99448260922,
+            146.99222863736534,
+            147.9899746655107,
+            148.98772069365603,
+            149.98546672180137,
+            150.98321274994672,
+            151.98095877809206,
+            152.9787048062374,
+            153.97645083438275,
+            154.9741968625281,
+            155.97194289067343,
+            156.96968891881878,
+            157.96743494696412,
+            158.96518097510946,
+            159.9629270032548,
+            160.96067303140015,
+            161.9584190595455,
+            162.95616508769083,
+            163.95391111583618,
+            164.95165714398152,
+            165.94940317212686,
+            166.9471492002722,
+            167.94489522841755,
+            168.9426412565629,
+            169.94038728470824,
+            170.93813331285358,
+            171.93587934099892,
+            172.93362536914427,
+            173.9313713972896,
+            174.92911742543495,
+            175.9268634535803,
+            176.92460948172564,
+            177.92235550987098,
+            178.92010153801633,
+            179.91784756616167,
+            180.915593594307,
+            181.91333962245236,
+            182.9110856505977,
+            183.90883167874304,
+            184.90657770688838,
+            185.90432373503373,
+            186.90206976317907,
+            187.89981579132441,
+            188.89756181946976,
+            189.8953078476151,
+            190.89305387576044,
+            191.8907999039058,
+            192.88854593205113,
+            193.88629196019647,
+            194.88403798834182,
+            195.88178401648716,
+            196.8795300446325,
+            197.87727607277785,
+            198.8750221009232,
+            199.87276812906853,
+            200.87051415721388,
+            201.86826018535922,
+            202.86600621350456,
+            203.8637522416499,
+            204.86149826979525,
+            205.8592442979406,
+            206.85699032608593,
+            207.85473635423128,
+            208.85248238237662,
+            209.85022841052196,
+            210.8479744386673,
+            211.84572046681265,
+            212.843466494958,
+            213.84121252310334,
+            214.83895855124868,
+            215.83670457939402,
+            216.83445060753937,
+            217.8321966356847,
+            218.82994266383005,
+            219.8276886919754,
+            220.82543472012074,
+            221.82318074826608,
+            222.82092677641143,
+            223.81867280455677,
+            224.8164188327021,
+            225.81416486084746,
+            226.8119108889928,
+            227.80965691713814,
+            228.80740294528348,
+            229.80514897342883,
+            230.80289500157417,
+            231.80064102971951,
+            232.79838705786486,
+            233.7961330860102,
+            234.79387911415554,
+            235.7916251423009,
+            236.78937117044623,
+            237.78711719859157,
+            238.78486322673692,
+            239.78260925488226,
+            240.7803552830276,
+            241.77810131117295,
+            242.7758473393183,
+            243.77359336746363,
+            244.77133939560898,
+            245.76908542375432,
+            246.76683145189966,
+            247.764577480045,
+            248.76232350819035,
+            249.7600695363357,
+            250.75781556448104,
+            251.75556159262638,
+            252.75330762077172,
+            253.75105364891706,
+            254.7487996770624,
+            255.74654570520775,
+            256.74429173335307,
+            257.7420377614984,
+            258.73978378964375
+          ]
+        },
+        "database": {
+          "name": "",
+          "language": "",
+          "phoneset": "",
+          "languageOverride": "",
+          "phonesetOverride": "",
+          "backendType": "",
+          "version": "-2"
+        },
+        "dictionary": "",
+        "voice": {
+          "vocalModeInherited": true,
+          "vocalModePreset": "",
+          "vocalModeParams": {},
+          "choirSeatingSeparation": 0.699999988079071
+        },
+        "voicePresetName": "",
+        "takes": {
+          "activeTakeId": 0,
+          "takes": [
+            {
+              "id": 0,
+              "seedDuration": 0,
+              "seedPitch": 0,
+              "seedTimbre": 0,
+              "liked": false
+            }
+          ]
+        },
+        "timestampLMR": 1792907384866,
+        "timestampLRSR": 1792907384962
+      },
+      "groups": []
+    }
+  ],
+  "renderConfig": {
+    "destination": "..\\..\\Desktop",
+    "filename": "未命名",
+    "numChannels": 1,
+    "aspirationFormat": "noAspiration",
+    "bitDepth": 24,
+    "sampleRate": 48000,
+    "exportMixDown": false,
+    "exportPitch": false,
+    "bypassPan": false,
+    "bypassGain": false,
+    "bypassEffects": false
+  },
+  "projectMixer": {
+    "linkRoomSettings": true
+  }
+}
