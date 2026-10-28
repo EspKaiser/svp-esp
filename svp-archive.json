@@ -135,6 +135,35 @@
       "languages": [
         "zh"
       ]
+    },
+    {
+      "slug": "261001听铃声响得多美妙",
+      "owner": "espkaiser",
+      "repo": "svp-esp",
+      "platform": "gitee",
+      "type": "project",
+      "title": "HALO（& POPY & ROSE）-听铃声响得多美妙",
+      "submittedAt": "2026-10-28T12:28:04.361Z",
+      "publishedAt": "2026-10-28T12:28:04.361Z",
+      "cover": "HALO.png",
+      "author": "EspKaiser",
+      "email": "speranza@espkaiser.cn",
+      "license": "CC-BY-SA-4.0",
+      "paramState": "tuned",
+      "songs": [
+        "https://www.bilibili.com/video/BV1hF411E7Co"
+      ],
+      "engines": [
+        "Synthesizer V 2"
+      ],
+      "voicebanks": [
+        "HALO",
+        "POPY",
+        "ROSE"
+      ],
+      "languages": [
+        "zh"
+      ]
     }
   ]
 }
